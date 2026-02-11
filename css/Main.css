@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #BF0200;
+    color: white;
+    font-family: 'Jersey 10';
+}
+.timerBeginsDiv {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+}
+
+.timerBeginsDiv h1 {
+    text-align: center;
+    letter-spacing: 12px;
+    font-size: 56px;
+    margin-bottom: 64px;
+}
+
+.timerBeginsDiv #time-remaining {
+    text-align: center;
+    font-size: 196px;
+    letter-spacing: 4px;
+}
+
+.pause{
+    font-family: 'Jersey 10';
+    background-color: rgba(255, 255, 255, 0.792);
+    width: 85px;
+    text-align: center;
+    font-size: 30px;
+    color: #BF0200;
+    border-radius: 6px;
+    border-color: transparent;
+    cursor: pointer;
+}
+.pause:hover{
+    background-color: white;
+    transform: scale(1.05);
+}
+.waitList {
+  flex: 1;
+  padding: 32px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.waitList h2 {
+  margin-bottom: 16px;
+  font-size: 35px;
+}
+
+.waitList ul {
+  list-style: none;
+  font-size: 28px;
+}
+
+.waitList li {
+  margin-bottom: 7px;
+}
