@@ -1,6 +1,6 @@
-#Timer 
+# Timer 
+
 <div align="center">
----
 
 ## 🌐 Live Demo
 
