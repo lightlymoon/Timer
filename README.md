@@ -76,7 +76,7 @@ The goal was not just to create a timer — but to build a well-structured, prod
 ---
 # 👨‍💻 Author
 
-Developed by **@lightlymoon**
+Developed and Designed by **@lightlymoon**
 
 Focused on writing scalable, structured, and maintainable front-end systems with strong architectural clarity.
 
