@@ -15,7 +15,6 @@
 
 ### 🌐 Live Demo  
 👉 **[Click here to see the live demo](https://lightlymoon.github.io/Timer/)**
-</div>
 
 ---
 # 📱 User Interface Preview
@@ -35,6 +34,8 @@
     height="1000"
   >
 </div>
+</div>
+
 # ✨ Overview
 
 **Timer** is a lightweight, high-performance web-based timing application designed with simplicity and precision in mind.
