@@ -31,7 +31,7 @@
   <img 
     src="./assets/TimerIphone.png" 
     alt="Mobile Mockup" 
-    width="550" 
+    width="800" 
     height="1000"
   >
 </div>
